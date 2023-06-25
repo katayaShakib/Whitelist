@@ -8,9 +8,9 @@ I Have deleted the front-end since this is a simple enough contract.
 
 You can simply tinker with the contract by adding users to the whitelist through Etherscan, as the contract has been verified on it.
 
-Go to Sepolia Etherscan and search up this contract address "0x383ed2396239dCe1C9c25068Df93a5B91Ea93356", and go to the Contract tab there.
+Go to https://sepolia.etherscan.io/ and search up this contract address "0x383ed2396239dCe1C9c25068Df93a5B91Ea93356".
 
-Go to the Read Contract tab and click on numAddressesWhitelisted, then go to the Write Contract tab and first click on Connect to Web3 - this will prompt you to connect your wallet to Etherscan. Once you have connected a wallet, click on addAddressToWhitelist and then click on Write.
+Go to the Contract tab, then go to the Read Contract tab and click on numAddressesWhitelisted, then go to the Write Contract tab and first click on Connect to Web3 - this will prompt you to connect your wallet to Etherscan. Once you have connected a wallet, click on addAddressToWhitelist and then click on Write.
 
 This should pop open your wallet to confirm a transaction. Confirm the transaction, and then wait for it to go through. You can click on View your transaction on Etherscan to check it's status.
 

@@ -2,7 +2,7 @@
 
 Give your early supporters access to a whitelist for your upcoming NFT collection.
 
-The first 10 users who join the whitelist will be able to mint a NFT for free, while everyone else will have to pay to mint one!
+The first 10 users who join the whitelist will be able to mint an NFT for free, while everyone else will have to pay to mint one!
 
 I Have deleted the front-end since this is a simple enough contract.
 
